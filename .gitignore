@@ -1,6 +1,6 @@
 src/*.exe
-src/smallchange
-src/test_smallchange
+src/skint
+src/test_skint
 src/build.h
 .*.swp
 *.*~*
@@ -13,7 +13,7 @@ src/build.h
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-smallchange-qt
+skint-qt
 #resources cpp
 qrc_*.cpp
 #qt creator
@@ -21,3 +21,4 @@ qrc_*.cpp
 #mac specific
 .DS_Store
 build
+
